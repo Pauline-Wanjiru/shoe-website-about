@@ -79,6 +79,11 @@
     grid-template-columns: repeat(2,1fr);
 
  }
+
+#color{
+color: red;
+
+}
 #brick{
     height: 410px;
     width: 450px;
